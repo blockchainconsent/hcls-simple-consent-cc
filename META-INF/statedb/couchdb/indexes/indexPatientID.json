@@ -1,0 +1,18 @@
+{
+    "index": {
+      "fields": [
+        {
+            "PatientID": "desc"
+        },
+        {
+            "TenantID": "desc"
+        },
+        {
+            "Creation": "desc"
+        }
+      ]
+    },
+    "ddoc":"indexPatientIDDoc",
+    "name":"indexPatientID",
+    "type":"json"
+}
